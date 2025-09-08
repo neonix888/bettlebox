@@ -198,4 +198,4 @@ Runs without flags to perform checks.
 **License:** MIT 
 **Maintainer:** _Hugh Nguyen_
 
-
+![What does it look like?](assets/bettlebox-preflight.png)
