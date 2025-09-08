@@ -195,7 +195,7 @@ Runs without flags to perform checks.
 
 ---
 
-**License:** MIT (or your preference)  
-**Maintainer:** _<your name/email>_
+**License:** MIT 
+**Maintainer:** _Hugh Nguyen_
 
 
